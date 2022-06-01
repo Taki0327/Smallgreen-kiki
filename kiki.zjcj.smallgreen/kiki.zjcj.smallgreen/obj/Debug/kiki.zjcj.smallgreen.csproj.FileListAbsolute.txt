@@ -1,0 +1,17 @@
+C:\Users\Taki\Desktop\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\bin\Debug\kiki.zjcj.smallgreen.dll
+C:\Users\Taki\Desktop\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\bin\Debug\kiki.zjcj.smallgreen.pdb
+C:\Users\Taki\Desktop\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\obj\Debug\kiki.zjcj.smallgreen.csprojResolveAssemblyReference.cache
+C:\Users\Taki\Desktop\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\obj\Debug\kiki.zjcj.smallgreen.csproj.CoreCompileInputs.cache
+C:\Users\Taki\Desktop\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\obj\Debug\kiki.zjcj.smallgreen.dll
+C:\Users\Taki\Desktop\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\obj\Debug\kiki.zjcj.smallgreen.pdb
+C:\Users\Taki\Desktop\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\bin\Debug\System.Data.SQLite.xml
+C:\Users\Taki\Desktop\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\bin\Debug\System.Data.SQLite.dll.config
+E:\smallgreen\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\obj\Debug\kiki.zjcj.smallgreen.csprojAssemblyReference.cache
+E:\smallgreen\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\obj\Debug\kiki.zjcj.smallgreen.dll
+E:\smallgreen\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\obj\Debug\kiki.zjcj.smallgreen.pdb
+E:\smallgreen\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\bin\Debug\kiki.zjcj.smallgreen.dll
+E:\smallgreen\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\bin\Debug\kiki.zjcj.smallgreen.pdb
+E:\smallgreen\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\bin\Debug\System.Data.SQLite.xml
+E:\smallgreen\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\bin\Debug\System.Data.SQLite.dll.config
+E:\smallgreen\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\obj\Debug\kiki.zjcj.smallgreen.csproj.CopyComplete
+E:\smallgreen\基基插件研发\kiki.zjcj.smallgreen\kiki.zjcj.smallgreen\obj\Debug\kiki.zjcj.smallgreen.csproj.CoreCompileInputs.cache
